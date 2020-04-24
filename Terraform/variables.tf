@@ -1,16 +1,8 @@
-# Variables
 variable "access_key" {
-<<<<<<< HEAD
 	default = ""
 }
 variable "secret_key" {
 	default = ""
-=======
-	default = "abc"
-}
-variable "secret_key" {
-	default = "abc"
->>>>>>> 30dfb91023dc7e35d7d5b4e68eb1b590b9faba6c
 }
 variable "region" {
   default = "us-east-2"
